@@ -123,5 +123,9 @@ streamlit run app.py
 
 推しドルメーカー制作プロジェクト
 
+## アプリ画面
+
+![推しドルメーカーの画面](screenshot.jpg)
+
 
 
